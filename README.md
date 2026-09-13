@@ -1,5 +1,3 @@
-Absolutely. Since this is your HealthConnect Week 6 – Analytics & Insights project, here is a GitHub-ready README kept well below 1,000 words.
-
 HealthConnect Clinic – Week 6 Analytics & Insights
 
 📌 Project Overview
